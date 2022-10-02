@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: '粉丝的个人博客'
+heroText: 'Cub链学社（c-universal blockchain）'
 bgImage: '/img/5.jpg'
 bgImageStyle: {
   height: '350px'

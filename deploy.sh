@@ -1,23 +1,23 @@
 #!/usr/bin/env sh
  
-# È·±£½Å±¾Å×³öÓöµ½µÄ´íÎó
+# ç¡®ä¿è„šæœ¬æŠ›å‡ºé‡åˆ°çš„é”™è¯¯
 set -e
  
-# Éú³É¾²Ì¬ÎÄ¼ş , yarn docs:build
+# ç”Ÿæˆé™æ€æ–‡ä»¶ , yarn docs:build
 npm run docs:build
 rm -rf ../blog/dist/*
 
-# ½«buildÉú³ÉµÄdistÄ¿Â¼¿½±´ÖÁÉÏÒ»²ãÄ¿Â¼ÖĞ
+# å°†buildç”Ÿæˆçš„distç›®å½•æ‹·è´è‡³ä¸Šä¸€å±‚ç›®å½•ä¸­
 cp -rf dist ../blog/
 
-# ½øÈëÉú³ÉµÄÎÄ¼ş¼Ğ
+# è¿›å…¥ç”Ÿæˆçš„æ–‡ä»¶å¤¹
 cd ../blog/dist
 
-# git³õÊ¼»¯£¬Ã¿´Î³õÊ¼»¯²»Ó°ÏìÍÆËÍ
+# gitåˆå§‹åŒ–ï¼Œæ¯æ¬¡åˆå§‹åŒ–ä¸å½±å“æ¨é€
 git init
 git add -A
 git commit -m 'deploy'
 git branch -M main
 
-# Èç¹ûÄãÏëÒª²¿Êğµ½ https://USERNAME.github.io
-git push -f git@github.com:it235/it235.github.io.git main
+# å¦‚æœä½ æƒ³è¦éƒ¨ç½²åˆ° https://USERNAME.github.io
+git push -f https://github.com/3293172751/3293172751.gitHub.io.git

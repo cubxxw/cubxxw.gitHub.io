@@ -1,4 +1,12 @@
 #!/usr/bin/env sh
+###
+ # @Description:bash脚本 
+ # @Author: xiongxinwei 3293172751nss@gmail.com
+ # @Date: 2022-09-15 08:07:14
+ # @LastEditTime: 2022-09-16 10:59:56
+ # @FilePath: \undefinedd:\文档\最近的\it235-vuepress\deploy_gitee.sh
+ # @blog: https://nsddd.top
+### 
  
 # 确保脚本抛出遇到的错误
 set -e
