@@ -90,14 +90,14 @@ module.exports = {
         recordLink: 'https://beian.miit.gov.cn/',
 		// 公网安备备案
         cyberSecurityRecord: '鄂ICP备2021018622号-',
-        cyberSecurityLink: 'http://icp.chinaz.com/nsddd.top',
+        cyberSecurityLink: 'http://icp.chinaz.com/cubxxw.com',
 		//友链
         friendLink: [
             {
                 title: 'xiongxinwei的博客',
                 desc: '这是smile的博客，一个看起来很像那么回事的博客',
                 email: '3293172751@qq.com',
-                link: 'http://nsddd.top'
+                link: 'http://cubxxw.com'
             },
         ]
     },

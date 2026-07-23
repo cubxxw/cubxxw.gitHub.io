@@ -5,7 +5,7 @@
  # @Date: 2022-09-15 08:07:14
  # @LastEditTime: 2022-09-16 10:59:56
  # @FilePath: \undefinedd:\文档\最近的\it235-vuepress\deploy_gitee.sh
- # @blog: https://nsddd.top
+ # @blog: https://cubxxw.com
 ### 
  
 # 确保脚本抛出遇到的错误

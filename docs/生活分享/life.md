@@ -22,7 +22,7 @@ more后面是不会被读取进去的。:::
 
 💡简单的一个案例如下：
 
-![image-20220930192132968](http://sm.nsddd.top/smimage-20220930192132968.png?xxw@nsddd.top)
+![image-20220930192132968](http://sm.cubxxw.com/smimage-20220930192132968.png?xxw@cubxxw.com)
 
 下面就是正文，请开始你的表演...
 

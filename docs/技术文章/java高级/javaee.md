@@ -31,7 +31,7 @@ categories:
 System.out.println("hello word");
 ```
 
-![image-20220930200057908](http://sm.nsddd.top/smimage-20220930200057908.png?xxw@nsddd.top)
+![image-20220930200057908](http://sm.cubxxw.com/smimage-20220930200057908.png?xxw@cubxxw.com)
 
 ## Java高级篇
 
